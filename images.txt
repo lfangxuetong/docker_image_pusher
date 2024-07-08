@@ -1,4 +1,9 @@
-prom/prometheus:v2.37.6
+#prom/prometheus:v2.37.6
+prom/alertmanager:v0.25.0
+google/cadvisor:latest
+prom/node-exporter:v1.5.0
+grafana/grafana:9.4.3
+
 #portainer/portainer-ce
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
