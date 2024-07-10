@@ -1,4 +1,5 @@
-google/cadvisor:latest
+gcr.io/cadvisor/cadvisor:latest
+#google/cadvisor:latest
 #prom/prometheus:v2.37.6
 #prom/alertmanager:v0.25.0
 #prom/node-exporter:v1.5.0
